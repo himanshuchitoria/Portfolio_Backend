@@ -13,7 +13,7 @@ app = FastAPI(
 # Allow CORS for frontend connection
 origins = [
     "https://www.himanshuchitoria.me",  
-    "http://127.0.0.1:3000"
+    "http://127.0.0.1:3000",
   
     
 ]
@@ -37,5 +37,6 @@ app.include_router(api_router, prefix="/api")
 @app.get("/")
 async def root():
     return {"message": "Welcome to the AI Customer Support Bot API"}
+
 
 
