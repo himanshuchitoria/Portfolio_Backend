@@ -1,0 +1,41 @@
+# FastAPI - lightweight modern async web framework
+fastapi>=0.100.0rc1
+
+# Uvicorn - ASGI server for running FastAPI apps
+uvicorn[standard]==0.22.0
+
+
+
+# Asyncpg - async PostgreSQL driver for SQLAlchemy
+
+
+# OpenAI python client for GPT API integration
+
+
+# RapidFuzz - fast fuzzy string matching library for FAQ handling
+rapidfuzz>=2.14.0,<3.0.0
+
+
+# Pydantic - data validation and settings management
+pydantic==2.4.0
+
+# Python-dotenv - load environment variables from .env file (optional but recommended)
+python-dotenv==1.0.0
+
+# HTTPX - async HTTP client, usable for API calls or testing
+httpx==0.24.1
+
+# Pytest & coverage - for test suite and coverage reports
+pytest==7.4.2
+pytest-asyncio==0.21.0
+coverage
+
+# MyPy - optional, for static type checking to improve code quality
+mypy==1.5.1
+
+motor>=3.6 
+pymongo>=4.9,<5
+
+pydantic-settings>=2.0.3,<3
+
+google-genai

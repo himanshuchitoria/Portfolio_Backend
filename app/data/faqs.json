@@ -1,0 +1,74 @@
+{
+  "name": "Himanshu Chitoria",
+
+  "Who are you?": "I am Himanshu Chitoria, a Computer Science student at IIT Madras pursuing a B.Tech and a part-time B.Sc. in Data Science.",
+  
+  "What is your educational background?": "I am currently enrolled in Bachelor of Technology - Computer Science and Engineering at Vellore Institute of Technology, Bhopal, and pursuing Bachelor of Science in Data Science at IIT Madras.",
+  
+  "Where are you located?": "I am based in Charkhi Dadri, Haryana, India.",
+
+  "How can I contact you?": "You can reach me at +91 98963 89035 or via email at himanshuchitoria88@gmail.com. Also, you can find me on LinkedIn at https://www.linkedin.com/in/himansuchitoria or GitHub at https://github.com/himanshuchitoria",
+
+  "What programming languages do you know?": "I am proficient in C, C++, Python, JavaScript, Java, HTML, and CSS.",
+
+  "What are your technical skills?": "I have expertise in frameworks and libraries such as TensorFlow, Keras, OpenCV, React.js, Next.js, TypeScript, Node.js, Express.js, and REST APIs. I am also experienced with MongoDB, Firebase, MySQL, and AWS cloud services.",
+
+  "Do you have experience with cloud platforms?": "Yes, I have hands-on experience with AWS, MongoDB, Firebase, and relational databases like MySQL.",
+
+  "Tell me about your internship experience.": "I interned at IDEMIA as a Facial Recognition/Computer Vision intern, ValU5Healthcare as a Software Development Engineer intern where I worked on HIPAA-compliant APIs, and Hitachi Pvt. Ltd focusing on AWS infrastructure automation.",
+
+  "What types of projects have you worked on?": "My notable projects include DevSync, a real-time developer collaboration tool built with MERN stack, FinSave, an AI-based personal finance tracker, and TrendHire, an AI-powered resume optimizer and job matcher.",
+
+  "What are your hobbies?": "I enjoy coding personal projects, exploring healthcare technologies, competing in programming challenges, and contributing to open-source software.",
+
+  "What certifications do you hold?": "I have earned certifications in Data Fundamentals by IBM, Cloud Computing by NPTEL, Python Essentials by Vityarthi, and Computer Networking from Google.",
+
+  "What programming languages are you comfortable with?": "I am comfortable with C/C++, Python, and JavaScript, along with web development languages like HTML and CSS.",
+
+  "What kind of developer are you?": "I am a full-stack web developer with a focus on healthcare technology, cybersecurity, and scalable cloud applications.",
+
+  "Are you involved in any extracurricular activities?": "Yes, I have led the design team at the Data Science Club in VIT Bhopal and was part of the editorial team managing tech content.",
+
+  "What are your strengths?": "My strengths include problem solving, full-stack development, cloud computing, cybersecurity practices, and applying AI in healthcare solutions.",
+
+  "What programming frameworks do you use?": "I have used React.js, Next.js for frontend development, and Node.js with Express.js for backend APIs.",
+
+  "How can you help with cybersecurity?": "I have experience implementing AWS IAM best practices, secure coding patterns, and building HIPAA-compliant applications.",
+
+  "Where can I see your code or projects?": "You can visit my GitHub at https://github.com/himanshuchitoria to see my projects and contributions.",
+
+  "What languages do you speak?": "I am fluent in Hindi, English, and Japanese.",
+
+  "What is your current academic status?": "I am currently completing my B.Tech in Computer Science at VIT Bhopal and part-time B.Sc. in Data Science at IIT Madras.",
+
+  "Can you work with AI/ML?": "Yes, I have experience using TensorFlow, Keras and OpenCV for AI and machine learning projects.",
+
+  "Contact details?": "Phone: +91 98963 89035, Email: himanshuchitoria88@gmail.com",
+
+  "LinkedIn profile?": "https://www.linkedin.com/in/himansuchitoria",
+
+  "GitHub profile?": "https://github.com/himanshuchitoria",
+
+  "Tell me about DevSync project.": "DevSync is a real-time collaboration tool I developed using MERN stack and WebSockets, enabling synchronized coding sessions with JWT authentication and role-based access control.",
+
+  "Tell me about AI projects.": "I worked on FinSave, an AI-powered personal finance tracker using OCR and machine learning for transaction categorization, and TrendHire, an AI-based resume optimizer using LangChain and OpenAI embeddings.",
+
+  "Your strengths as developer?": "I specialize in full-stack development, cloud deployment, secure APIs, AI integration, and have strong problem-solving skills demonstrated through various projects and internships.",
+
+  "How do you prepare for interviews?": "I have solved over 250 data structures and algorithms problems on platforms like LeetCode and GeeksforGeeks, focusing on system design and coding challenges.",
+
+  "What is your career goal?": "To build innovative healthcare technology solutions and secure scalable systems using AI and cloud computing.",
+
+  "How do you work in teams?": "I have led design teams and collaborated in development projects maintaining version control, code reviews, and CI/CD practices.",
+
+  "What is your approach to learning new tech?": "I engage in hands-on projects, contribute to open source, and follow latest tech trends through technical papers and conferences.",
+
+  "What is your availability?": "I am currently available for internship and full-time software engineering roles starting post October 2026.",
+
+  "Languages for coding?": "Primarily Python, Java, JavaScript, and C/C++.",
+
+  "Do you have experience with cloud security?": "Yes, I have implemented IAM roles, MFA, and automated infrastructure deployment with security best practices.",
+
+  "Can you describe your personality?": "I am a dedicated, quick learner and enjoy problem-solving with a passion for developing impactful software solutions."
+}
+
