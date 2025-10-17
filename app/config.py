@@ -17,7 +17,7 @@ class Settings(BaseSettings):
     session_expiration_minutes: int = Field(1440, env="SESSION_EXPIRATION_MINUTES")
 
     # Allowed CORS origins, 
-    cors_origins: list[str] = Field(default_factory=lambda: ["http://localhost:3000", "http://127.0.0.1:3000"])
+    cors_origins: list[str] = Field(default_factory=lambda: ["https://portfolio-backend-uroc.onrender.com", "http://127.0.0.1:3000","https://www.himanshuchitoria.me/"])
 
     @validator("cors_origins", pre=True)
     def parse_cors_origins(cls, v):
@@ -31,3 +31,4 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+
