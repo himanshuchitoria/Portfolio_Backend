@@ -1,0 +1,17 @@
+name: Keep Render Servers Alive
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  ping_servers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Both Websites
+        run: |
+          echo "Pinging Website 1..."
+          curl -I  https://portfolio-backend-uroc.onrender.com
+          
+       
