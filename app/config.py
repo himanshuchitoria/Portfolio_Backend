@@ -17,7 +17,7 @@ class Settings(BaseSettings):
     session_expiration_minutes: int = Field(1440, env="SESSION_EXPIRATION_MINUTES")
 
     # Allowed CORS origins, 
-    cors_origins: list[str] = Field(default_factory=lambda: ["https://www.himanshuchitoria.me", "http://127.0.0.1:3000"])
+    cors_origins: list[str] = Field(default_factory=lambda: ["https://www.himanshu.chitoria.dev", "http://127.0.0.1:3000"])
 
     @validator("cors_origins", pre=True)
     def parse_cors_origins(cls, v):
